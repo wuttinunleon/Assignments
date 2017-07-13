@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="BOX_FRAME_TG(Gun UDATE)">
+    <output-path>$PROJECT_DIR$/out/artifacts/BOX_FRAME_TG_Gun_UDATE_</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Game.Main" />
+        <option name="description" value="" />
+        <option name="height" value="720" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="BOX_FRAME_TG" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="1280" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="BOX_FRAME_TG_Gun_UDATE_.jar">
+        <element id="module-output" name="BOX_FRAME_TG(Gun UDATE)" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="BOX_FRAME_TG_Gun_UDATE_.jnlp">
+  <information>
+    <title>BOX_FRAME_TG</title>
+    <vendor>Unknown</vendor>
+    <description>BOX_FRAME_TG(Gun UDATE)</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="BOX_FRAME_TG_Gun_UDATE_.jar" size="36993210" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="1280" height="720" main-class="Game.Main"  name="BOX_FRAME_TG(Gun UDATE)" />
+  <update check="background"/>
+</jnlp>

@@ -1,0 +1,2578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BOX_FRAME_TG(Gun UDATE)" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Enit/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1494">
+              <caret line="159" column="26" lean-forward="true" selection-start-line="159" selection-start-column="26" selection-end-line="159" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Enit/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enitity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Enit/Enitity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Attack/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="77" column="38" lean-forward="false" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BulletUp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Attack/BulletUp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BulletLeft.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Attack/BulletLeft.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Boss.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Enit/Boss.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Enit/Bot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="76" column="98" lean-forward="false" selection-start-line="76" selection-start-column="98" selection-end-line="76" selection-end-column="98" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BotMc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Enit/BotMc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="70" column="99" lean-forward="false" selection-start-line="70" selection-start-column="99" selection-end-line="70" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BotTank.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Enit/BotTank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1075">
+              <caret line="93" column="84" lean-forward="false" selection-start-line="93" selection-start-column="84" selection-end-line="93" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>weapon_1</find>
+      <find>akBullet</find>
+      <find>count</find>
+      <find>health</find>
+      <find>HashMap</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Tile/WaterTile.java" />
+        <option value="$PROJECT_DIR$/src/Tile/It.java" />
+        <option value="$PROJECT_DIR$/src/Tile/RoadTile.java" />
+        <option value="$PROJECT_DIR$/src/Enit/Car.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Animation.java" />
+        <option value="$PROJECT_DIR$/src/Enit/House.java" />
+        <option value="$PROJECT_DIR$/src/Attack/Bullets.java" />
+        <option value="$PROJECT_DIR$/src/Attack/BulletRight.java" />
+        <option value="$PROJECT_DIR$/src/Attack/BulletUp.java" />
+        <option value="$PROJECT_DIR$/src/Attack/BulletLeft.java" />
+        <option value="$PROJECT_DIR$/src/Attack/BulletDown.java" />
+        <option value="$PROJECT_DIR$/src/EntityManger/EnitityManager.java" />
+        <option value="$PROJECT_DIR$/src/Item/Controller.java" />
+        <option value="$PROJECT_DIR$/src/Item/ControllerItem.java" />
+        <option value="$PROJECT_DIR$/src/Display/Display.java" />
+        <option value="$PROJECT_DIR$/src/Enit/Status.java" />
+        <option value="$PROJECT_DIR$/src/Enit/Bot.java" />
+        <option value="$PROJECT_DIR$/src/Item/ItemHeal.java" />
+        <option value="$PROJECT_DIR$/src/Item/Item.java" />
+        <option value="$PROJECT_DIR$/src/Enit/Enitity.java" />
+        <option value="$PROJECT_DIR$/src/Enit/BotMc.java" />
+        <option value="$PROJECT_DIR$/src/State/StateManager.java" />
+        <option value="$PROJECT_DIR$/src/Game/GameEngine.java" />
+        <option value="$PROJECT_DIR$/src/State/MainMenuState.java" />
+        <option value="$PROJECT_DIR$/src/Input/KeyManager.java" />
+        <option value="$PROJECT_DIR$/src/Camera/Camera.java" />
+        <option value="$PROJECT_DIR$/src/map.txt" />
+        <option value="$PROJECT_DIR$/src/Assets/Assets.java" />
+        <option value="$PROJECT_DIR$/src/Tile/RoadTile4.java" />
+        <option value="$PROJECT_DIR$/src/Tile/RoadTile5.java" />
+        <option value="$PROJECT_DIR$/src/Tile/RoadTile6.java" />
+        <option value="$PROJECT_DIR$/src/Tile/RoadTile7.java" />
+        <option value="$PROJECT_DIR$/src/Tile/RoadTile3.java" />
+        <option value="$PROJECT_DIR$/src/Tile/RoadTile2.java" />
+        <option value="$PROJECT_DIR$/src/Tile/Tile.java" />
+        <option value="$PROJECT_DIR$/src/Game/Main.java" />
+        <option value="$PROJECT_DIR$/src/Sound/Sound.java" />
+        <option value="$PROJECT_DIR$/src/World/Map.java" />
+        <option value="$PROJECT_DIR$/src/Enit/Boss.java" />
+        <option value="$PROJECT_DIR$/src/State/GameState.java" />
+        <option value="$PROJECT_DIR$/src/State/GameOver.java" />
+        <option value="$PROJECT_DIR$/src/Enit/BotTank.java" />
+        <option value="$PROJECT_DIR$/src/Enit/Player1.java" />
+        <option value="$PROJECT_DIR$/src/Enit/Player2.java" />
+        <option value="$PROJECT_DIR$/src/Attack/Controller.java" />
+        <option value="$PROJECT_DIR$/src/Enit/Player.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="State" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sound" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Loader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Input" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EntityManger" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Enit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Display" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Camera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BOX_FRAME_TG 164260 (Souce Code )" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Attack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\duckk\Desktop\Project\BOX_FRAME_TG 164260\src\World" />
+      <recent name="C:\Users\duckk\Desktop\Project\BOX_FRAME_TG 164260\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tile" />
+      <recent name="Enit" />
+      <recent name="Item" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\duckk\Desktop\Project\BOX_FRAME_TG 164260\src" />
+      <recent name="C:\Users\acer\IdeaProjects\BOX_FRAME_TG(MAP UPDATE)\src" />
+      <recent name="C:\Users\Aphiwat\IdeaProjects\555" />
+      <recent name="C:\Users\Aphiwat\IdeaProjects\555\.idea" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Game.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="555" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ButtonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ButtonDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BOX_FRAME_TG(Gun UDATE)" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="555" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Game.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BOX_FRAME_TG(Gun UDATE)" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ButtonDemo" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.ButtonDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1491582569320" duration="531000" />
+      <workItem from="1491661674216" duration="28000" />
+      <workItem from="1491708603426" duration="7681000" />
+      <workItem from="1491716558427" duration="6144000" />
+      <workItem from="1491913937344" duration="2265000" />
+      <workItem from="1491916219305" duration="3006000" />
+      <workItem from="1491919847014" duration="2502000" />
+      <workItem from="1491926813795" duration="926000" />
+      <workItem from="1492004329038" duration="11996000" />
+      <workItem from="1492057324348" duration="12629000" />
+      <workItem from="1492092851986" duration="2825000" />
+      <workItem from="1492101886522" duration="7794000" />
+      <workItem from="1492154050774" duration="274000" />
+      <workItem from="1492164268932" duration="4825000" />
+      <workItem from="1492169243955" duration="40000" />
+      <workItem from="1492240318729" duration="14722000" />
+      <workItem from="1492255921650" duration="16947000" />
+      <workItem from="1492324256023" duration="74000" />
+      <workItem from="1492341926400" duration="15951000" />
+      <workItem from="1492358150097" duration="6101000" />
+      <workItem from="1492364508801" duration="1897000" />
+      <workItem from="1492366787696" duration="2539000" />
+      <workItem from="1492369430319" duration="729000" />
+      <workItem from="1492370532230" duration="251000" />
+      <workItem from="1492400650381" duration="4171000" />
+      <workItem from="1492405745094" duration="2326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3402854" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.171875" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39846322" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sheet_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Item/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Enit.BotMc">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Enit.BotMc</OriginalElement>
+          <nodes>
+            <node x="91.5" y="521.0">Enit.Status</node>
+            <node x="0.0" y="907.0">Enit.BotMc</node>
+            <node x="25.0" y="0.0">Enit.Enitity</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Enit.BotMc" target="Enit.Status">
+              <point x="0.0" y="-276.0" />
+              <point x="0.0" y="168.0" />
+            </edge>
+            <edge source="Enit.Status" target="Enit.Enitity">
+              <point x="0.0" y="-168.0" />
+              <point x="0.0" y="235.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.3563218390804598" x="-1303.0" y="944.0" />
+          <SelectedNodes>
+            <node>Enit.BotMc</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="4730.8292520032455" y="2680.5">Attack.BulletRight</node>
+            <node x="4130.5610948144995" y="906.0">Attack.Controller</node>
+            <node x="1483.6869047619052" y="188.0">Item.Item</node>
+            <node x="7664.11544300893" y="0.0">State.Setting</node>
+            <node x="5842.760994034379" y="2626.0">Sound.Sound</node>
+            <node x="5534.429252003246" y="6310.5">State.MainMenuState</node>
+            <node x="2403.8292520032455" y="7017.0">Game.GameEngine</node>
+            <node x="5319.8292520032455" y="5405.0">State.GameState</node>
+            <node x="1338.429352783366" y="1186.0">Assets.Assets</node>
+            <node x="1243.00463253203" y="4461.5">Enit.House</node>
+            <node x="1749.2332039606013" y="4984.0">World.Map</node>
+            <node x="3940.8292520032455" y="2680.5">Attack.BulletDown</node>
+            <node x="1457.250279748664" y="2694.5">Tile.RoadTile</node>
+            <node x="6459.460994034379" y="2558.0">Enit.Status</node>
+            <node x="1197.750279748664" y="3408.0">Tile.Tile</node>
+            <node x="1638.8944281478325" y="946.5">SpriteSheet.SpriteSheet</node>
+            <node x="7111.11544300893" y="7786.0">Enit.BotMc</node>
+            <node x="1981.2962138621183" y="0.0">Item.ControllerItem</node>
+            <node x="2131.228851177236" y="6270.0">Display.Display</node>
+            <node x="4475.0610948144995" y="4448.0">Enit.Player2</node>
+            <node x="1105.791946415331" y="2694.5">Tile.GrassTile</node>
+            <node x="3477.8292520032455" y="5039.0">Enit.Player1</node>
+            <node x="5128.8292520032455" y="2680.5">Attack.BulletUp</node>
+            <node x="2638.046299198697" y="6108.0">Input.KeyManager</node>
+            <node x="4342.8292520032455" y="2680.5">Attack.BulletLeft</node>
+            <node x="6867.2042520032455" y="4258.0">Enit.Bot</node>
+            <node x="6886.210994034379" y="2598.5">Assets.Animation</node>
+            <node x="2537.7792520032463" y="8003.0">Game.Main</node>
+            <node x="2834.429352783366" y="4971.0">State.StateManager</node>
+            <node x="1708.0046325320302" y="4433.5">EntityManger.EnitityManager</node>
+            <node x="243.37449009848388" y="6310.0">Camera.Camera</node>
+            <node x="1334.250279748664" y="2694.5">Tile.It</node>
+            <node x="5618.3292520032455" y="3124.0">Enit.Player</node>
+            <node x="4104.0610948144995" y="1590.0">Attack.Bullets</node>
+            <node x="798.00463253203" y="4461.5">Enit.Car</node>
+            <node x="4765.5610948144995" y="974.5">Loader.ImageLoader</node>
+            <node x="26.554632532030155" y="8388.0">Enit.Tree</node>
+            <node x="6219.2042520032455" y="4177.0">Enit.Boss</node>
+            <node x="512.00463253203" y="574.0">Item.ItemHeal</node>
+            <node x="121.17647022485471" y="7826.5">Enit.Enitity</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Enit.Car" target="Game.GameEngine">
+              <point x="0.0" y="72.5" />
+              <point x="1010.50463253203" y="6917.0" />
+              <point x="2514.3292520032455" y="6917.0" />
+              <point x="-175.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.Player" target="Attack.BulletLeft">
+              <point x="-299.25" y="-451.5" />
+              <point x="5718.0792520032455" y="2934.0" />
+              <point x="4649.4959186699125" y="2934.0" />
+              <point x="122.66666666666697" y="45.5" />
+            </edge>
+            <edge source="Attack.BulletUp" target="Attack.Bullets">
+              <point x="0.0" y="-45.5" />
+              <point x="5309.8292520032455" y="2518.0" />
+              <point x="4461.5610948144995" y="2518.0" />
+              <point x="165.0" y="222.0" />
+            </edge>
+            <edge source="Tile.RoadTile" target="Assets.Assets">
+              <point x="0.0" y="-31.5" />
+              <point x="1533.750279748664" y="2528.0" />
+              <point x="1687.8222099262232" y="2528.0" />
+              <point x="-194.1071428571429" y="626.0" />
+            </edge>
+            <edge source="Enit.Player2" target="Attack.BulletUp">
+              <point x="29.4375" y="-86.0" />
+              <point x="4739.9985948144995" y="4067.0" />
+              <point x="5309.8292520032455" y="4067.0" />
+              <point x="0.0" y="45.5" />
+            </edge>
+            <edge source="Assets.Assets" target="Loader.ImageLoader">
+              <point x="362.3333333333335" y="-626.0" />
+              <point x="2244.2626861166996" y="1166.0" />
+              <point x="4909.0610948144995" y="1166.0" />
+              <point x="0.0" y="31.5" />
+            </edge>
+            <edge source="Tile.Tile" target="Tile.RoadTile">
+              <point x="82.0" y="-167.5" />
+              <point x="1443.750279748664" y="3094.0" />
+              <point x="1495.500279748664" y="3094.0" />
+              <point x="-38.25" y="31.5" />
+            </edge>
+            <edge source="World.Map" target="EntityManger.EnitityManager">
+              <point x="-35.85714285714289" y="-114.0" />
+              <point x="1838.8760611034584" y="4951.0" />
+              <point x="1832.0046325320302" y="4951.0" />
+              <point x="0.0" y="100.5" />
+            </edge>
+            <edge source="Enit.BotMc" target="Enit.Player">
+              <point x="-56.44444444444434" y="-276.0" />
+              <point x="7308.670998564486" y="7726.0" />
+              <point x="7510.127360066834" y="7726.0" />
+              <point x="7510.127360066834" y="4097.0" />
+              <point x="6371.9959186699125" y="4097.0" />
+              <point x="354.66666666666697" y="451.5" />
+            </edge>
+            <edge source="Enit.Car" target="Assets.Assets">
+              <point x="-106.25" y="-72.5" />
+              <point x="904.25463253203" y="2498.0" />
+              <point x="1454.8936384976519" y="2498.0" />
+              <point x="-427.0357142857142" y="626.0" />
+            </edge>
+            <edge source="Enit.Player1" target="Enit.Player">
+              <point x="107.75" y="-59.0" />
+              <point x="3801.0792520032455" y="4931.0" />
+              <point x="4956.5610948144995" y="4931.0" />
+              <point x="4956.5610948144995" y="4127.0" />
+              <point x="5928.662585336579" y="4127.0" />
+              <point x="-88.66666666666697" y="451.5" />
+            </edge>
+            <edge source="Attack.Controller" target="Attack.Bullets">
+              <point x="0.0" y="100.0" />
+              <point x="0.0" y="-222.0" />
+            </edge>
+            <edge source="Enit.Player" target="Enit.Status">
+              <point x="166.25" y="-451.5" />
+              <point x="6183.5792520032455" y="3024.0" />
+              <point x="6540.710994034379" y="3024.0" />
+              <point x="-81.25" y="168.0" />
+            </edge>
+            <edge source="Game.GameEngine" target="State.MainMenuState">
+              <point x="266.5" y="-329.5" />
+              <point x="2956.3292520032455" y="6987.0" />
+              <point x="5578.095918669913" y="6987.0" />
+              <point x="-87.33333333333303" y="127.0" />
+            </edge>
+            <edge source="Enit.Tree" target="Tile.Tile">
+              <point x="-54.0" y="-72.5" />
+              <point x="188.55463253203015" y="8358.0" />
+              <point x="11.0" y="8358.0" />
+              <point x="11.0" y="4047.0" />
+              <point x="1382.250279748664" y="4047.0" />
+              <point x="20.5" y="167.5" />
+            </edge>
+            <edge source="Attack.Bullets" target="Attack.Bullets">
+              <point x="-165.0" y="222.0" />
+              <point x="4131.5610948144995" y="2054.0" />
+              <point x="4084.0610948144995" y="2054.0" />
+              <point x="4084.0610948144995" y="1812.0" />
+              <point x="-192.5" y="-0.0" />
+            </edge>
+            <edge source="Tile.Tile" target="Tile.It">
+              <point x="-27.333333333333258" y="-167.5" />
+              <point x="1334.416946415331" y="3104.0" />
+              <point x="1360.000279748664" y="3104.0" />
+              <point x="-25.75" y="31.5" />
+            </edge>
+            <edge source="State.StateManager" target="State.StateManager">
+              <point x="-168.0" y="127.0" />
+              <point x="2858.429352783366" y="5245.0" />
+              <point x="2814.429352783366" y="5245.0" />
+              <point x="2814.429352783366" y="5161.5" />
+              <point x="-192.0" y="63.5" />
+            </edge>
+            <edge source="State.GameState" target="Enit.Enitity">
+              <point x="-230.39999999999964" y="316.5" />
+              <point x="5377.429252003246" y="6088.0" />
+              <point x="202.45463253203025" y="6088.0" />
+              <point x="202.45463253203025" y="7716.0" />
+              <point x="373.0764702248548" y="7716.0" />
+              <point x="22.90000000000009" y="-235.5" />
+            </edge>
+            <edge source="Tile.GrassTile" target="Tile.Tile">
+              <point x="38.25" y="31.5" />
+              <point x="1220.541946415331" y="3094.0" />
+              <point x="1279.750279748664" y="3094.0" />
+              <point x="-82.0" y="-167.5" />
+            </edge>
+            <edge source="State.GameState" target="State.MainMenuState">
+              <point x="115.19999999999982" y="316.5" />
+              <point x="5723.029252003245" y="6058.0" />
+              <point x="5665.429252003246" y="6058.0" />
+              <point x="0.0" y="-127.0" />
+            </edge>
+            <edge source="Enit.Bot" target="Enit.Player">
+              <point x="-211.66666666666697" y="-276.0" />
+              <point x="6909.537585336579" y="4117.0" />
+              <point x="6283.3292520032455" y="4117.0" />
+              <point x="266.0" y="451.5" />
+            </edge>
+            <edge source="Enit.Player2" target="Attack.BulletRight">
+              <point x="-29.4375" y="-86.0" />
+              <point x="4681.1235948144995" y="4057.0" />
+              <point x="4919.8292520032455" y="4057.0" />
+              <point x="0.0" y="45.5" />
+            </edge>
+            <edge source="World.Map" target="Enit.Car">
+              <point x="-107.57142857142867" y="-114.0" />
+              <point x="1767.1617753891726" y="4921.0" />
+              <point x="1152.1712991986965" y="4921.0" />
+              <point x="141.66666666666652" y="72.5" />
+            </edge>
+            <edge source="Game.GameEngine" target="Input.KeyManager">
+              <point x="19.5" y="-329.5" />
+              <point x="2709.3292520032455" y="6797.0" />
+              <point x="2935.046299198697" y="6797.0" />
+              <point x="0.0" y="329.5" />
+            </edge>
+            <edge source="State.StateManager" target="Game.GameEngine">
+              <point x="72.0" y="127.0" />
+              <point x="3098.429352783366" y="5365.0" />
+              <point x="3264.546299198697" y="5365.0" />
+              <point x="3264.546299198697" y="6837.0" />
+              <point x="2761.3292520032455" y="6837.0" />
+              <point x="71.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.Player2" target="Attack.BulletDown">
+              <point x="-147.1875" y="-86.0" />
+              <point x="4563.3735948144995" y="4067.0" />
+              <point x="4131.8292520032455" y="4067.0" />
+              <point x="0.0" y="45.5" />
+            </edge>
+            <edge source="Enit.Tree" target="Enit.Enitity">
+              <point x="54.0" y="-72.5" />
+              <point x="296.55463253203015" y="8358.0" />
+              <point x="464.6764702248547" y="8358.0" />
+              <point x="114.5" y="235.5" />
+            </edge>
+            <edge source="State.GameState" target="Item.ControllerItem">
+              <point x="272.84210526315724" y="-316.5" />
+              <point x="5880.671357266403" y="5385.0" />
+              <point x="7396.7042520032455" y="5385.0" />
+              <point x="7396.7042520032455" y="138.0" />
+              <point x="2215.6712138621183" y="138.0" />
+              <point x="109.375" y="59.0" />
+            </edge>
+            <edge source="Attack.BulletUp" target="Game.GameEngine">
+              <point x="-120.66666666666697" y="45.5" />
+              <point x="5189.162585336579" y="2974.0" />
+              <point x="3373.8292520032455" y="2974.0" />
+              <point x="3373.8292520032455" y="6887.0" />
+              <point x="2826.3292520032455" y="6887.0" />
+              <point x="136.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.BotMc" target="Assets.Animation">
+              <point x="169.33333333333303" y="-276.0" />
+              <point x="7534.448776342263" y="7766.0" />
+              <point x="7554.127360066834" y="7766.0" />
+              <point x="7554.127360066834" y="2984.0" />
+              <point x="7135.544327367712" y="2984.0" />
+              <point x="117.33333333333303" y="127.5" />
+            </edge>
+            <edge source="Item.ControllerItem" target="Item.Item">
+              <point x="-46.875" y="59.0" />
+              <point x="2059.4212138621183" y="158.0" />
+              <point x="1636.1869047619052" y="158.0" />
+              <point x="0.0" y="-168.0" />
+            </edge>
+            <edge source="Tile.It" target="Assets.Assets">
+              <point x="0.0" y="-31.5" />
+              <point x="1385.750279748664" y="2518.0" />
+              <point x="1610.179352783366" y="2518.0" />
+              <point x="-271.75" y="626.0" />
+            </edge>
+            <edge source="Enit.Player1" target="Game.GameEngine">
+              <point x="-161.625" y="59.0" />
+              <point x="3531.7042520032455" y="5385.0" />
+              <point x="3580.0792520032455" y="5385.0" />
+              <point x="3580.0792520032455" y="6967.0" />
+              <point x="2930.3292520032455" y="6967.0" />
+              <point x="240.5" y="-329.5" />
+            </edge>
+            <edge source="Attack.Bullets" target="Game.GameEngine">
+              <point x="-55.0" y="222.0" />
+              <point x="4241.5610948144995" y="2528.0" />
+              <point x="3329.8292520032455" y="2528.0" />
+              <point x="3329.8292520032455" y="6847.0" />
+              <point x="2774.3292520032455" y="6847.0" />
+              <point x="84.5" y="-329.5" />
+            </edge>
+            <edge source="Game.GameEngine" target="Display.Display">
+              <point x="-84.5" y="-329.5" />
+              <point x="2605.3292520032455" y="6847.0" />
+              <point x="2211.478851177236" y="6847.0" />
+              <point x="-80.25" y="167.5" />
+            </edge>
+            <edge source="State.MainMenuState" target="State.GameState">
+              <point x="-37.42857142857156" y="-127.0" />
+              <point x="5628.000680574674" y="6088.0" />
+              <point x="5607.8292520032455" y="6088.0" />
+              <point x="0.0" y="316.5" />
+            </edge>
+            <edge source="Attack.Controller" target="Game.GameEngine">
+              <point x="-94.85714285714312" y="100.0" />
+              <point x="4201.703951957356" y="1146.0" />
+              <point x="2538.3292520032455" y="1146.0" />
+              <point x="2538.3292520032455" y="6807.0" />
+              <point x="2657.3292520032455" y="6807.0" />
+              <point x="-32.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.Enitity" target="Game.GameEngine">
+              <point x="160.29999999999995" y="-235.5" />
+              <point x="510.4764702248549" y="7756.0" />
+              <point x="2461.0292520032453" y="7756.0" />
+              <point x="-228.80000000000018" y="329.5" />
+            </edge>
+            <edge source="State.GameState" target="World.Map">
+              <point x="-242.5263157894733" y="-316.5" />
+              <point x="5365.302936213772" y="5335.0" />
+              <point x="1979.3165372939347" y="5335.0" />
+              <point x="104.58333333333348" y="114.0" />
+            </edge>
+            <edge source="Enit.Boss" target="Enit.Player">
+              <point x="-261.66666666666697" y="-357.0" />
+              <point x="6271.537585336579" y="4127.0" />
+              <point x="6194.6625853365795" y="4127.0" />
+              <point x="177.33333333333394" y="451.5" />
+            </edge>
+            <edge source="EntityManger.EnitityManager" target="Enit.Player">
+              <point x="0.0" y="-100.5" />
+              <point x="1832.0046325320302" y="4097.0" />
+              <point x="5662.662585336579" y="4097.0" />
+              <point x="-354.66666666666697" y="451.5" />
+            </edge>
+            <edge source="Item.ItemHeal" target="Game.GameEngine">
+              <point x="-88.33333333333348" y="141.0" />
+              <point x="556.1712991986965" y="881.0" />
+              <point x="627.8744900984839" y="881.0" />
+              <point x="627.8744900984839" y="6947.0" />
+              <point x="2475.3292520032455" y="6947.0" />
+              <point x="-214.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.Player" target="Game.GameEngine">
+              <point x="-266.0" y="451.5" />
+              <point x="5751.3292520032455" y="4107.0" />
+              <point x="3434.3292520032455" y="4107.0" />
+              <point x="3434.3292520032455" y="6927.0" />
+              <point x="2878.3292520032455" y="6927.0" />
+              <point x="188.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.Status" target="Enit.Enitity">
+              <point x="-146.25" y="168.0" />
+              <point x="6475.710994034379" y="3004.0" />
+              <point x="3677.0610948144995" y="3004.0" />
+              <point x="3677.0610948144995" y="4077.0" />
+              <point x="87.0744900984837" y="4077.0" />
+              <point x="87.0744900984837" y="7766.0" />
+              <point x="144.0764702248548" y="7766.0" />
+              <point x="-206.0999999999999" y="-235.5" />
+            </edge>
+            <edge source="Game.GameEngine" target="Sound.Sound">
+              <point x="149.5" y="-329.5" />
+              <point x="2839.3292520032455" y="6897.0" />
+              <point x="3384.8292520032455" y="6897.0" />
+              <point x="3384.8292520032455" y="4057.0" />
+              <point x="3507.960994034379" y="4057.0" />
+              <point x="3507.960994034379" y="2984.0" />
+              <point x="5864.460994034379" y="2984.0" />
+              <point x="-86.80000000000018" y="100.0" />
+            </edge>
+            <edge source="State.GameState" target="State.StateManager">
+              <point x="-212.21052631579005" y="-316.5" />
+              <point x="5395.6187256874555" y="5325.0" />
+              <point x="3194.429352783366" y="5325.0" />
+              <point x="168.0" y="127.0" />
+            </edge>
+            <edge source="Enit.Boss" target="Assets.Assets">
+              <point x="-157.0" y="-357.0" />
+              <point x="6376.2042520032455" y="4127.0" />
+              <point x="6443.8292520032455" y="4127.0" />
+              <point x="6443.8292520032455" y="2478.0" />
+              <point x="2231.322209926223" y="2478.0" />
+              <point x="349.3928571428569" y="626.0" />
+            </edge>
+            <edge source="Enit.Bot" target="State.MainMenuState">
+              <point x="203.19999999999982" y="276.0" />
+              <point x="7324.404252003245" y="4931.0" />
+              <point x="7418.7042520032455" y="4931.0" />
+              <point x="7418.7042520032455" y="6078.0" />
+              <point x="5740.286394860389" y="6078.0" />
+              <point x="74.85714285714312" y="-127.0" />
+            </edge>
+            <edge source="Tile.GrassTile" target="Assets.Assets">
+              <point x="0.0" y="-31.5" />
+              <point x="1182.291946415331" y="2508.0" />
+              <point x="1532.5364956405092" y="2508.0" />
+              <point x="-349.3928571428571" y="626.0" />
+            </edge>
+            <edge source="Game.GameEngine" target="State.StateManager">
+              <point x="-6.5" y="-329.5" />
+              <point x="2683.3292520032455" y="6787.0" />
+              <point x="2627.546299198697" y="6787.0" />
+              <point x="2627.546299198697" y="5385.0" />
+              <point x="2954.429352783366" y="5385.0" />
+              <point x="-72.0" y="127.0" />
+            </edge>
+            <edge source="Item.Item" target="Item.ControllerItem">
+              <point x="-101.66666666666674" y="-168.0" />
+              <point x="1534.5202380952387" y="148.0" />
+              <point x="2028.1712138621183" y="148.0" />
+              <point x="-78.125" y="59.0" />
+            </edge>
+            <edge source="Item.ItemHeal" target="Item.Item">
+              <point x="66.25" y="-141.0" />
+              <point x="710.75463253203" y="544.0" />
+              <point x="1521.8119047619052" y="544.0" />
+              <point x="-114.375" y="168.0" />
+            </edge>
+            <edge source="Enit.Player" target="Assets.Assets">
+              <point x="99.75" y="-451.5" />
+              <point x="6117.0792520032455" y="2994.0" />
+              <point x="6070.260994034379" y="2994.0" />
+              <point x="6070.260994034379" y="2488.0" />
+              <point x="2153.6793527833656" y="2488.0" />
+              <point x="271.74999999999955" y="626.0" />
+            </edge>
+            <edge source="World.Map" target="Enit.House">
+              <point x="-71.71428571428578" y="-114.0" />
+              <point x="1803.0189182463155" y="4911.0" />
+              <point x="1613.8379658653635" y="4911.0" />
+              <point x="148.33333333333348" y="72.5" />
+            </edge>
+            <edge source="Item.Item" target="Game.GameEngine">
+              <point x="-38.125" y="168.0" />
+              <point x="1598.0619047619052" y="554.0" />
+              <point x="787.50463253203" y="554.0" />
+              <point x="787.50463253203" y="6927.0" />
+              <point x="2501.3292520032455" y="6927.0" />
+              <point x="-188.5" y="-329.5" />
+            </edge>
+            <edge source="Attack.BulletDown" target="Attack.Bullets">
+              <point x="0.0" y="-45.5" />
+              <point x="4131.8292520032455" y="2538.0" />
+              <point x="4296.5610948144995" y="2538.0" />
+              <point x="0.0" y="222.0" />
+            </edge>
+            <edge source="Enit.Boss" target="State.GameState">
+              <point x="-78.5" y="357.0" />
+              <point x="6454.7042520032455" y="4941.0" />
+              <point x="6527.7042520032455" y="4941.0" />
+              <point x="6527.7042520032455" y="5325.0" />
+              <point x="5698.776620424298" y="5325.0" />
+              <point x="90.94736842105249" y="-316.5" />
+            </edge>
+            <edge source="Enit.Player" target="Attack.BulletRight">
+              <point x="-232.75" y="-451.5" />
+              <point x="5784.5792520032455" y="2924.0" />
+              <point x="5045.8292520032455" y="2924.0" />
+              <point x="126.0" y="45.5" />
+            </edge>
+            <edge source="Enit.House" target="Assets.Assets">
+              <point x="111.25" y="-72.5" />
+              <point x="1576.75463253203" y="4067.0" />
+              <point x="1620.750279748664" y="4067.0" />
+              <point x="1620.750279748664" y="2538.0" />
+              <point x="1765.4650670690803" y="2538.0" />
+              <point x="-116.46428571428578" y="626.0" />
+            </edge>
+            <edge source="EntityManger.EnitityManager" target="Enit.Enitity">
+              <point x="-99.20000000000005" y="100.5" />
+              <point x="1732.8046325320302" y="4941.0" />
+              <point x="120.0744900984837" y="4941.0" />
+              <point x="120.0744900984837" y="7736.0" />
+              <point x="281.4764702248549" y="7736.0" />
+              <point x="-68.69999999999982" y="-235.5" />
+            </edge>
+            <edge source="State.GameState" target="Assets.Assets">
+              <point x="-121.26315789473665" y="-316.5" />
+              <point x="5486.566094108509" y="5295.0" />
+              <point x="3919.3292520032455" y="5295.0" />
+              <point x="3919.3292520032455" y="2508.0" />
+              <point x="1998.3936384976519" y="2508.0" />
+              <point x="116.46428571428578" y="626.0" />
+            </edge>
+            <edge source="Enit.Tree" target="Assets.Assets">
+              <point x="-162.0" y="-72.5" />
+              <point x="80.55463253203015" y="8368.0" />
+              <point x="0.0" y="8368.0" />
+              <point x="0.0" y="2488.0" />
+              <point x="1377.2507813547945" y="2488.0" />
+              <point x="-504.67857142857156" y="626.0" />
+            </edge>
+            <edge source="State.MainMenuState" target="State.StateManager">
+              <point x="-112.28571428571468" y="-127.0" />
+              <point x="5553.143537717531" y="6078.0" />
+              <point x="3275.546299198697" y="6078.0" />
+              <point x="3275.546299198697" y="5355.0" />
+              <point x="3146.429352783366" y="5355.0" />
+              <point x="120.0" y="127.0" />
+            </edge>
+            <edge source="Enit.Bot" target="State.GameState">
+              <point x="0.0" y="276.0" />
+              <point x="7121.2042520032455" y="5355.0" />
+              <point x="5789.7239888453505" y="5355.0" />
+              <point x="181.89473684210475" y="-316.5" />
+            </edge>
+            <edge source="Enit.BotMc" target="Enit.Status">
+              <point x="56.44444444444434" y="-276.0" />
+              <point x="7421.559887453374" y="7746.0" />
+              <point x="7532.127360066834" y="7746.0" />
+              <point x="7532.127360066834" y="3004.0" />
+              <point x="6768.210994034379" y="3004.0" />
+              <point x="146.25" y="168.0" />
+            </edge>
+            <edge source="State.GameState" target="Game.GameEngine">
+              <point x="-115.19999999999982" y="316.5" />
+              <point x="5492.629252003246" y="6088.0" />
+              <point x="5523.929252003246" y="6088.0" />
+              <point x="5523.929252003246" y="6977.0" />
+              <point x="2943.3292520032455" y="6977.0" />
+              <point x="253.5" y="-329.5" />
+            </edge>
+            <edge source="State.MainMenuState" target="Game.GameEngine">
+              <point x="0.0" y="127.0" />
+              <point x="5665.429252003246" y="6997.0" />
+              <point x="2969.3292520032455" y="6997.0" />
+              <point x="279.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.Player2" target="Enit.Player">
+              <point x="147.1875" y="-86.0" />
+              <point x="4857.7485948144995" y="4117.0" />
+              <point x="5839.9959186699125" y="4117.0" />
+              <point x="-177.33333333333303" y="451.5" />
+            </edge>
+            <edge source="Enit.Boss" target="State.MainMenuState">
+              <point x="235.5" y="357.0" />
+              <point x="6768.7042520032455" y="4941.0" />
+              <point x="7407.7042520032455" y="4941.0" />
+              <point x="7407.7042520032455" y="6068.0" />
+              <point x="5702.857823431817" y="6068.0" />
+              <point x="37.42857142857156" y="-127.0" />
+            </edge>
+            <edge source="World.Map" target="Tile.Tile">
+              <point x="71.71428571428578" y="-114.0" />
+              <point x="1946.447489674887" y="4951.0" />
+              <point x="1966.5046325320302" y="4951.0" />
+              <point x="1966.5046325320302" y="4057.0" />
+              <point x="1505.250279748664" y="4057.0" />
+              <point x="143.5" y="167.5" />
+            </edge>
+            <edge source="Camera.Camera" target="Game.GameEngine">
+              <point x="160.28571428571422" y="127.5" />
+              <point x="590.6602043841981" y="6957.0" />
+              <point x="2462.3292520032455" y="6957.0" />
+              <point x="-227.5" y="-329.5" />
+            </edge>
+            <edge source="Loader.ImageLoader" target="Loader.ImageLoader">
+              <point x="-95.66666666666674" y="31.5" />
+              <point x="4813.3944281478325" y="1057.5" />
+              <point x="4745.5610948144995" y="1057.5" />
+              <point x="4745.5610948144995" y="1006.0" />
+              <point x="-143.5" y="-0.0" />
+            </edge>
+            <edge source="Enit.Player1" target="State.MainMenuState">
+              <point x="-53.875" y="59.0" />
+              <point x="3639.4542520032455" y="5385.0" />
+              <point x="3591.0792520032455" y="5385.0" />
+              <point x="3591.0792520032455" y="6068.0" />
+              <point x="5590.572109146103" y="6068.0" />
+              <point x="-74.85714285714312" y="-127.0" />
+            </edge>
+            <edge source="Enit.House" target="Game.GameEngine">
+              <point x="0.0" y="72.5" />
+              <point x="1465.50463253203" y="6907.0" />
+              <point x="2527.3292520032455" y="6907.0" />
+              <point x="-162.5" y="-329.5" />
+            </edge>
+            <edge source="Game.Main" target="Game.GameEngine">
+              <point x="0.0" y="-59.0" />
+              <point x="2673.7792520032463" y="7766.0" />
+              <point x="2689.8292520032455" y="7766.0" />
+              <point x="0.0" y="329.5" />
+            </edge>
+            <edge source="Enit.Player" target="Attack.BulletDown">
+              <point x="-365.75" y="-451.5" />
+              <point x="5651.5792520032455" y="2944.0" />
+              <point x="4259.162585336579" y="2944.0" />
+              <point x="127.33333333333303" y="45.5" />
+            </edge>
+            <edge source="Tile.Tile" target="Tile.GrassTile">
+              <point x="-136.66666666666652" y="-167.5" />
+              <point x="1225.0836130819976" y="3104.0" />
+              <point x="1144.041946415331" y="3104.0" />
+              <point x="-38.25" y="31.5" />
+            </edge>
+            <edge source="Assets.Assets" target="SpriteSheet.SpriteSheet">
+              <point x="-362.33333333333326" y="-626.0" />
+              <point x="1519.596019450033" y="1166.0" />
+              <point x="1699.1444281478325" y="1166.0" />
+              <point x="-60.25" y="59.5" />
+            </edge>
+            <edge source="Enit.Player1" target="State.GameState">
+              <point x="161.625" y="59.0" />
+              <point x="3854.9542520032455" y="5305.0" />
+              <point x="5456.250304634825" y="5305.0" />
+              <point x="-151.5789473684208" y="-316.5" />
+            </edge>
+            <edge source="Enit.Bot" target="Assets.Assets">
+              <point x="211.66666666666697" y="-276.0" />
+              <point x="7332.8709186699125" y="4157.0" />
+              <point x="7257.5610948144995" y="4157.0" />
+              <point x="7257.5610948144995" y="2468.0" />
+              <point x="2308.9650670690803" y="2468.0" />
+              <point x="427.0357142857142" y="626.0" />
+            </edge>
+            <edge source="Enit.Player1" target="Item.ControllerItem">
+              <point x="-107.75" y="-59.0" />
+              <point x="3585.5792520032455" y="4911.0" />
+              <point x="3423.3292520032455" y="4911.0" />
+              <point x="3423.3292520032455" y="4047.0" />
+              <point x="3401.3292520032455" y="4047.0" />
+              <point x="3401.3292520032455" y="168.0" />
+              <point x="2121.9212138621183" y="168.0" />
+              <point x="15.625" y="59.0" />
+            </edge>
+            <edge source="Enit.Car" target="Tile.Tile">
+              <point x="106.25" y="-72.5" />
+              <point x="1116.75463253203" y="4057.0" />
+              <point x="1423.250279748664" y="4057.0" />
+              <point x="61.5" y="167.5" />
+            </edge>
+            <edge source="State.GameState" target="Enit.Player">
+              <point x="60.631578947368325" y="-316.5" />
+              <point x="5668.460830950614" y="5315.0" />
+              <point x="6099.477761481166" y="5315.0" />
+              <point x="6099.477761481166" y="4127.0" />
+              <point x="6105.9959186699125" y="4127.0" />
+              <point x="88.66666666666697" y="451.5" />
+            </edge>
+            <edge source="Enit.Tree" target="Game.GameEngine">
+              <point x="162.0" y="-72.5" />
+              <point x="404.55463253203015" y="8368.0" />
+              <point x="2820.2792520032463" y="8368.0" />
+              <point x="2820.2792520032463" y="7766.0" />
+              <point x="2804.229252003246" y="7766.0" />
+              <point x="114.40000000000009" y="329.5" />
+            </edge>
+            <edge source="Tile.Tile" target="Tile.Tile">
+              <point x="-143.5" y="167.5" />
+              <point x="1218.250279748664" y="3763.0" />
+              <point x="1177.750279748664" y="3763.0" />
+              <point x="1177.750279748664" y="3701.125" />
+              <point x="-164.0" y="125.625" />
+            </edge>
+            <edge source="State.GameState" target="Enit.Bot">
+              <point x="151.5789473684208" y="-316.5" />
+              <point x="5759.408199371666" y="5345.0" />
+              <point x="7037.502380952381" y="5345.0" />
+              <point x="7037.502380952381" y="4951.0" />
+              <point x="7019.604252003245" y="4951.0" />
+              <point x="-101.60000000000036" y="276.0" />
+            </edge>
+            <edge source="World.Map" target="Assets.Assets">
+              <point x="107.57142857142844" y="-114.0" />
+              <point x="1982.3046325320297" y="4951.0" />
+              <point x="2024.0462991986967" y="4951.0" />
+              <point x="2024.0462991986967" y="2538.0" />
+              <point x="1843.1079242119372" y="2538.0" />
+              <point x="-38.821428571428896" y="626.0" />
+            </edge>
+            <edge source="Attack.BulletRight" target="Attack.Bullets">
+              <point x="0.0" y="-45.5" />
+              <point x="4919.8292520032455" y="2528.0" />
+              <point x="4406.5610948144995" y="2528.0" />
+              <point x="110.0" y="222.0" />
+            </edge>
+            <edge source="Item.ItemHeal" target="Item.ControllerItem">
+              <point x="-66.25" y="-141.0" />
+              <point x="578.25463253203" y="138.0" />
+              <point x="1996.9212138621183" y="138.0" />
+              <point x="-109.375" y="59.0" />
+            </edge>
+            <edge source="Enit.Player2" target="Attack.BulletLeft">
+              <point x="-88.3125" y="-86.0" />
+              <point x="4622.2485948144995" y="4057.0" />
+              <point x="4526.8292520032455" y="4057.0" />
+              <point x="0.0" y="45.5" />
+            </edge>
+            <edge source="Enit.Bot" target="Game.GameEngine">
+              <point x="-203.19999999999982" y="276.0" />
+              <point x="6918.004252003246" y="4951.0" />
+              <point x="3467.3292520032455" y="4951.0" />
+              <point x="3467.3292520032455" y="6957.0" />
+              <point x="2917.3292520032455" y="6957.0" />
+              <point x="227.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.BotMc" target="State.GameState">
+              <point x="-112.88888888888869" y="-276.0" />
+              <point x="7252.226554120041" y="7746.0" />
+              <point x="5806.929252003246" y="7746.0" />
+              <point x="5806.929252003246" y="6058.0" />
+              <point x="5838.229252003245" y="6058.0" />
+              <point x="230.3999999999994" y="316.5" />
+            </edge>
+            <edge source="Enit.Player" target="Attack.BulletUp">
+              <point x="-166.25" y="-451.5" />
+              <point x="5851.0792520032455" y="2914.0" />
+              <point x="5430.4959186699125" y="2914.0" />
+              <point x="120.66666666666697" y="45.5" />
+            </edge>
+            <edge source="Enit.Boss" target="Assets.Animation">
+              <point x="157.0" y="-357.0" />
+              <point x="6690.2042520032455" y="4147.0" />
+              <point x="6870.4542520032455" y="4147.0" />
+              <point x="6870.4542520032455" y="3094.0" />
+              <point x="6988.877660701046" y="3094.0" />
+              <point x="-29.33333333333303" y="127.5" />
+            </edge>
+            <edge source="Tile.RoadTile" target="Tile.Tile">
+              <point x="38.25" y="31.5" />
+              <point x="1572.000279748664" y="3104.0" />
+              <point x="1498.416946415331" y="3104.0" />
+              <point x="136.66666666666697" y="-167.5" />
+            </edge>
+            <edge source="World.Map" target="Game.GameEngine">
+              <point x="-62.75" y="114.0" />
+              <point x="1811.9832039606013" y="5385.0" />
+              <point x="1751.6757813547945" y="5385.0" />
+              <point x="1751.6757813547945" y="6887.0" />
+              <point x="2553.3292520032455" y="6887.0" />
+              <point x="-136.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.Bot" target="Enit.Status">
+              <point x="-127.0" y="-276.0" />
+              <point x="6994.2042520032455" y="4107.0" />
+              <point x="6765.8876861167" y="4107.0" />
+              <point x="6765.8876861167" y="3054.0" />
+              <point x="6670.710994034379" y="3054.0" />
+              <point x="48.75" y="168.0" />
+            </edge>
+            <edge source="Enit.Player2" target="State.GameState">
+              <point x="0.0" y="86.0" />
+              <point x="4710.5610948144995" y="5285.0" />
+              <point x="5516.881883582193" y="5285.0" />
+              <point x="-90.94736842105249" y="-316.5" />
+            </edge>
+            <edge source="Enit.Player2" target="Game.GameEngine">
+              <point x="-157.0" y="86.0" />
+              <point x="4553.5610948144995" y="4921.0" />
+              <point x="3445.3292520032455" y="4921.0" />
+              <point x="3445.3292520032455" y="6937.0" />
+              <point x="2891.3292520032455" y="6937.0" />
+              <point x="201.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.BotMc" target="Assets.Assets">
+              <point x="225.77777777777737" y="-276.0" />
+              <point x="7590.893220786707" y="7766.0" />
+              <point x="7565.127360066834" y="7766.0" />
+              <point x="7565.127360066834" y="2458.0" />
+              <point x="2386.607924211937" y="2458.0" />
+              <point x="504.6785714285711" y="626.0" />
+            </edge>
+            <edge source="Enit.BotMc" target="Game.GameEngine">
+              <point x="-225.77777777777828" y="-276.0" />
+              <point x="7139.337665231152" y="7766.0" />
+              <point x="2918.6292520032457" y="7766.0" />
+              <point x="228.80000000000018" y="329.5" />
+            </edge>
+            <edge source="State.MainMenuState" target="Loader.ImageLoader">
+              <point x="112.28571428571468" y="-127.0" />
+              <point x="5777.714966288961" y="6088.0" />
+              <point x="7429.7042520032455" y="6088.0" />
+              <point x="7429.7042520032455" y="1126.0" />
+              <point x="5004.727761481166" y="1126.0" />
+              <point x="95.66666666666697" y="31.5" />
+            </edge>
+            <edge source="Enit.Boss" target="Game.GameEngine">
+              <point x="-235.5" y="357.0" />
+              <point x="6297.7042520032455" y="4941.0" />
+              <point x="3456.3292520032455" y="4941.0" />
+              <point x="3456.3292520032455" y="6947.0" />
+              <point x="2904.3292520032455" y="6947.0" />
+              <point x="214.5" y="-329.5" />
+            </edge>
+            <edge source="Attack.BulletLeft" target="Game.GameEngine">
+              <point x="-122.66666666666697" y="45.5" />
+              <point x="4404.162585336579" y="2954.0" />
+              <point x="3351.8292520032455" y="2954.0" />
+              <point x="3351.8292520032455" y="6867.0" />
+              <point x="2800.3292520032455" y="6867.0" />
+              <point x="110.5" y="-329.5" />
+            </edge>
+            <edge source="Game.GameEngine" target="Assets.Assets">
+              <point x="-97.5" y="-329.5" />
+              <point x="2592.3292520032455" y="6857.0" />
+              <point x="2042.724870627268" y="6857.0" />
+              <point x="2042.724870627268" y="2528.0" />
+              <point x="1920.7507813547945" y="2528.0" />
+              <point x="38.82142857142844" y="626.0" />
+            </edge>
+            <edge source="Attack.Controller" target="Item.Item">
+              <point x="83.0" y="-100.0" />
+              <point x="4379.5610948144995" y="544.0" />
+              <point x="1750.5619047619052" y="544.0" />
+              <point x="114.375" y="168.0" />
+            </edge>
+            <edge source="Game.GameEngine" target="World.Map">
+              <point x="-110.5" y="-329.5" />
+              <point x="2579.3292520032455" y="6867.0" />
+              <point x="1880.2332039606017" y="6867.0" />
+              <point x="1880.2332039606017" y="5385.0" />
+              <point x="1895.6498706272678" y="5385.0" />
+              <point x="20.916666666666515" y="114.0" />
+            </edge>
+            <edge source="Enit.Car" target="Enit.Enitity">
+              <point x="-141.66666666666652" y="72.5" />
+              <point x="868.8379658653635" y="4921.0" />
+              <point x="98.0744900984837" y="4921.0" />
+              <point x="98.0744900984837" y="7756.0" />
+              <point x="189.87647022485453" y="7756.0" />
+              <point x="-160.30000000000018" y="-235.5" />
+            </edge>
+            <edge source="Enit.Player" target="Assets.Animation">
+              <point x="299.25" y="-451.5" />
+              <point x="6316.5792520032455" y="3064.0" />
+              <point x="6900.877660701046" y="3064.0" />
+              <point x="-117.33333333333303" y="127.5" />
+            </edge>
+            <edge source="Enit.House" target="Tile.Tile">
+              <point x="-111.25" y="-72.5" />
+              <point x="1354.25463253203" y="4067.0" />
+              <point x="1464.250279748664" y="4067.0" />
+              <point x="102.5" y="167.5" />
+            </edge>
+            <edge source="Enit.Player2" target="Assets.Assets">
+              <point x="-206.0625" y="-86.0" />
+              <point x="4504.4985948144995" y="4077.0" />
+              <point x="3930.3292520032455" y="4077.0" />
+              <point x="3930.3292520032455" y="2498.0" />
+              <point x="2076.0364956405087" y="2498.0" />
+              <point x="194.10714285714266" y="626.0" />
+            </edge>
+            <edge source="Enit.Bot" target="Assets.Animation">
+              <point x="42.33333333333303" y="-276.0" />
+              <point x="7163.537585336579" y="4157.0" />
+              <point x="7168.335994034379" y="4157.0" />
+              <point x="7168.335994034379" y="3034.0" />
+              <point x="7047.544327367712" y="3034.0" />
+              <point x="29.33333333333303" y="127.5" />
+            </edge>
+            <edge source="Game.GameEngine" target="Camera.Camera">
+              <point x="-266.5" y="-329.5" />
+              <point x="2423.3292520032455" y="6987.0" />
+              <point x="430.3744900984839" y="6987.0" />
+              <point x="0.0" y="127.5" />
+            </edge>
+            <edge source="Attack.Controller" target="Item.ItemHeal">
+              <point x="-83.0" y="-100.0" />
+              <point x="4213.5610948144995" y="881.0" />
+              <point x="732.837965865363" y="881.0" />
+              <point x="88.33333333333326" y="141.0" />
+            </edge>
+            <edge source="Attack.BulletDown" target="Game.GameEngine">
+              <point x="-127.33333333333303" y="45.5" />
+              <point x="4004.4959186699125" y="2944.0" />
+              <point x="3340.8292520032455" y="2944.0" />
+              <point x="3340.8292520032455" y="6857.0" />
+              <point x="2787.3292520032455" y="6857.0" />
+              <point x="97.5" y="-329.5" />
+            </edge>
+            <edge source="Enit.Player" target="Sound.Sound">
+              <point x="-99.75" y="-451.5" />
+              <point x="5917.5792520032455" y="2994.0" />
+              <point x="5951.260994034379" y="2994.0" />
+              <point x="0.0" y="100.0" />
+            </edge>
+            <edge source="State.GameState" target="Enit.Boss">
+              <point x="121.26315789473665" y="-316.5" />
+              <point x="5729.092409897982" y="5335.0" />
+              <point x="6538.7042520032455" y="5335.0" />
+              <point x="6538.7042520032455" y="4941.0" />
+              <point x="6611.7042520032455" y="4941.0" />
+              <point x="78.5" y="357.0" />
+            </edge>
+            <edge source="Attack.Bullets" target="Attack.Controller">
+              <point x="-128.33333333333303" y="-222.0" />
+              <point x="4168.227761481166" y="1156.0" />
+              <point x="4249.132523385928" y="1156.0" />
+              <point x="-47.42857142857156" y="100.0" />
+            </edge>
+            <edge source="Tile.It" target="Tile.Tile">
+              <point x="25.75" y="31.5" />
+              <point x="1411.500279748664" y="3104.0" />
+              <point x="1389.083613081997" y="3104.0" />
+              <point x="27.33333333333303" y="-167.5" />
+            </edge>
+            <edge source="Enit.House" target="Enit.Enitity">
+              <point x="-148.33333333333303" y="72.5" />
+              <point x="1317.171299198697" y="4931.0" />
+              <point x="109.0744900984837" y="4931.0" />
+              <point x="109.0744900984837" y="7746.0" />
+              <point x="235.6764702248547" y="7746.0" />
+              <point x="-114.5" y="-235.5" />
+            </edge>
+            <edge source="State.GameState" target="Attack.Controller">
+              <point x="0.0" y="-316.5" />
+              <point x="5607.8292520032455" y="1136.0" />
+              <point x="4438.846809100214" y="1136.0" />
+              <point x="142.28571428571468" y="100.0" />
+            </edge>
+            <edge source="Enit.Player2" target="Item.ControllerItem">
+              <point x="88.3125" y="-86.0" />
+              <point x="4798.8735948144995" y="4077.0" />
+              <point x="5574.8292520032455" y="4077.0" />
+              <point x="5574.8292520032455" y="158.0" />
+              <point x="2153.1712138621183" y="158.0" />
+              <point x="46.875" y="59.0" />
+            </edge>
+            <edge source="Enit.Enitity" target="Enit.Enitity">
+              <point x="-114.5" y="235.5" />
+              <point x="235.6764702248547" y="8317.5" />
+              <point x="101.17647022485471" y="8317.5" />
+              <point x="101.17647022485471" y="8062.0" />
+              <point x="-229.0" y="-0.0" />
+            </edge>
+            <edge source="Enit.BotMc" target="State.MainMenuState">
+              <point x="-169.33333333333303" y="-276.0" />
+              <point x="7195.782109675597" y="7756.0" />
+              <point x="5752.762585336579" y="7756.0" />
+              <point x="87.33333333333303" y="127.0" />
+            </edge>
+            <edge source="Camera.Camera" target="Enit.Enitity">
+              <point x="-106.85714285714312" y="127.5" />
+              <point x="323.51734724134076" y="6997.0" />
+              <point x="303.7836130819978" y="6997.0" />
+              <point x="303.7836130819978" y="7696.0" />
+              <point x="464.6764702248547" y="7696.0" />
+              <point x="114.5" y="-235.5" />
+            </edge>
+            <edge source="Attack.BulletLeft" target="Attack.Bullets">
+              <point x="0.0" y="-45.5" />
+              <point x="4526.8292520032455" y="2538.0" />
+              <point x="4351.5610948144995" y="2538.0" />
+              <point x="55.0" y="222.0" />
+            </edge>
+            <edge source="Enit.Boss" target="Enit.Status">
+              <point x="52.33333333333303" y="-357.0" />
+              <point x="6585.537585336579" y="4127.0" />
+              <point x="6538.7042520032455" y="4127.0" />
+              <point x="6538.7042520032455" y="3054.0" />
+              <point x="6638.210994034379" y="3054.0" />
+              <point x="16.25" y="168.0" />
+            </edge>
+            <edge source="Attack.BulletRight" target="Game.GameEngine">
+              <point x="-126.0" y="45.5" />
+              <point x="4793.8292520032455" y="2964.0" />
+              <point x="3362.8292520032455" y="2964.0" />
+              <point x="3362.8292520032455" y="6877.0" />
+              <point x="2813.3292520032455" y="6877.0" />
+              <point x="123.5" y="-329.5" />
+            </edge>
+            <edge source="State.GameState" target="Enit.Player2">
+              <point x="-60.631578947368325" y="-316.5" />
+              <point x="5547.197673055877" y="5275.0" />
+              <point x="4839.0610948144995" y="5275.0" />
+              <point x="4839.0610948144995" y="4921.0" />
+              <point x="4867.5610948144995" y="4921.0" />
+              <point x="157.0" y="86.0" />
+            </edge>
+            <edge source="Enit.Status" target="Game.GameEngine">
+              <point x="-113.75" y="168.0" />
+              <point x="6508.210994034379" y="3014.0" />
+              <point x="5585.8292520032455" y="3014.0" />
+              <point x="5585.8292520032455" y="4087.0" />
+              <point x="3412.3292520032455" y="4087.0" />
+              <point x="3412.3292520032455" y="6917.0" />
+              <point x="2865.3292520032455" y="6917.0" />
+              <point x="175.5" y="-329.5" />
+            </edge>
+            <edge source="State.GameState" target="Enit.Player1">
+              <point x="-181.89473684210498" y="-316.5" />
+              <point x="5425.934515161141" y="5315.0" />
+              <point x="3747.2042520032455" y="5315.0" />
+              <point x="53.875" y="59.0" />
+            </edge>
+            <edge source="Enit.Player2" target="Assets.Animation">
+              <point x="206.0625" y="-86.0" />
+              <point x="4916.6235948144995" y="4137.0" />
+              <point x="6859.4542520032455" y="4137.0" />
+              <point x="6859.4542520032455" y="3084.0" />
+              <point x="6959.544327367712" y="3084.0" />
+              <point x="-58.66666666666697" y="127.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.1" x="-3880.0" y="2780.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assets/Animation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Attack/BulletRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Attack/BulletDown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Item/ControllerItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Item/ItemHeal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Camera/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="36" column="90" lean-forward="false" selection-start-line="36" selection-start-column="90" selection-end-line="36" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/StateManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/GrassTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/RoadTile5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/RoadTile6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/RoadTile3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/RoadTile2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/RoadTile7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/It.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loader/ImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assets/Assets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/RoadTile4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/World/lose.png" />
+    <entry file="file://$PROJECT_DIR$/src/Sound/Sound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/RoadTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile/Tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="48" lean-forward="false" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/map.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/World/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="65" column="68" lean-forward="false" selection-start-line="65" selection-start-column="68" selection-end-line="65" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Boss.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/MainMenuState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/GameEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Input/KeyManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="39" column="31" lean-forward="false" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="52" column="41" lean-forward="false" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/GameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Attack/Bullets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/Player1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-999">
+          <caret line="34" column="53" lean-forward="false" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/Player2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="85" column="41" lean-forward="false" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Attack/BulletLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/Enitity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/Bot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="76" column="98" lean-forward="false" selection-start-line="76" selection-start-column="98" selection-end-line="76" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/BotMc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="70" column="99" lean-forward="false" selection-start-line="70" selection-start-column="99" selection-end-line="70" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/BotTank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1075">
+          <caret line="93" column="84" lean-forward="false" selection-start-line="93" selection-start-column="84" selection-end-line="93" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1494">
+          <caret line="159" column="26" lean-forward="true" selection-start-line="159" selection-start-column="26" selection-end-line="159" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enit/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Attack/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="77" column="38" lean-forward="false" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Attack/BulletUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>BOX_FRAME_TG(Gun UDATE)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BOX_FRAME_TG(Gun UDATE)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
